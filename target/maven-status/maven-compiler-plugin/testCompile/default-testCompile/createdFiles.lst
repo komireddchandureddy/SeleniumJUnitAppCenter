@@ -1,0 +1,16 @@
+com\swg\tests\HoldVisitTest.class
+com\swg\tests\RefreshContinueVisitTest.class
+com\swg\tests\ResumeVisitTest.class
+com\swg\tests\CompleteVisitTest.class
+com\swg\tests\ReturnRequiredVisitTest.class
+com\swg\tests\RefreshVisitTest.class
+com\swg\utils\ApplicationFunactions.class
+com\swg\tests\LoginTest.class
+com\swg\tests\RefreshStartedVisitTest.class
+com\swg\tests\RejectVisitTest.class
+com\swg\suiteRunner\TestSuite.class
+com\swg\utils\SWGObjects$SWG.class
+com\swg\tests\AddAttachmentVisitTest.class
+com\swg\utils\LogUtil.class
+com\swg\utils\SWGObjects.class
+com\swg\utils\GenericMethods.class
